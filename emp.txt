@@ -1,0 +1,4 @@
+id  name  city
+1  somnath  satara
+2  swapnil  satara
+3  anil  pune
